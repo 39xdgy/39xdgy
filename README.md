@@ -4,5 +4,5 @@
 - Love to meet/teach people in the compsci world!
 - English/Japanese/Chinese 👌
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=39xdgy&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=39xdgy&layout=compact&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=39xdgy&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=39xdgy&layout=compact&theme=dark)

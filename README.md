@@ -1,7 +1,8 @@
-### Hi i'm Jess 👩‍💻
+### Hi i'm Jiashu/Jason 👩‍💻
 
-- I am a 4/5 computer science major at Stevens Institute of Technology.
-- I am mainly interested in web development but am always looking to learn new things!
+- Fall in love with anything computer science related
+- Love to meet/teach people in the compsci world!
+- English/Japanese/Chinese all works along
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=39xdgy&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=39xdgya&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=39xdgy&layout=compact&theme=synthwave)

@@ -5,4 +5,4 @@
 - English/Japanese/Chinese 👌
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=39xdgy&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=39xdgy&layout=compact&theme=dark&hide=c#)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=39xdgy&layout=compact&theme=dark&hide=C#)

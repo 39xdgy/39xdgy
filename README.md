@@ -1,5 +1,6 @@
 ### Hi i'm Jiashu/Jason/39xdgy
 
+- CS Graduate student in SIT
 - Fall in love with anything computer science related
 - Love to meet/teach people in the compsci world!
 - English/Japanese/Chinese 👌
